@@ -1,0 +1,34 @@
+header {
+    background-color: #000;
+    height: 5vw;
+    overflow: hidden;
+
+    img {
+        margin: 1% 1%;
+        height: 75%;
+    }
+
+    ul {
+        display: inline;
+        list-style-type: none;
+
+        li {
+            float: right;
+            transform: translateY(100%);
+        }
+    
+        li a {
+            display: block;
+            color: #858585;
+            text-align: center;
+            padding-right: 5rem;
+            text-decoration: none;
+            font-weight: bold;
+            font-family: 'SourceHanSansCN-b', "Microsoft YaHei", sans-serif;
+    
+            &:hover {
+                color: #fff;
+            }
+        }
+    }
+}
