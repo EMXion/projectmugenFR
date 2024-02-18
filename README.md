@@ -1,8 +1,9 @@
 # projectmugenFR
 A website for projectmugen.fr
 
-Used Assets from the official site [projectmugen.com](projectmugen.com) :
- - Logo
+Used assets from the official site [projectmugen.com](projectmugen.com) :
+ - logo
  - favicon
+ - background
  - fonts :
   - SourceHanSansCN-Heavy
