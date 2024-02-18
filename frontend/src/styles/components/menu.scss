@@ -1,0 +1,41 @@
+iframe {
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    width: 20vw;
+    height: 70vh;
+}
+
+div.welcome {
+    position: relative;
+    top: 1rem;
+    left: 35%;
+    transform: skewX(15deg) rotate(-16deg);
+    width: 40vw;
+    color: #fff;  
+    
+}
+
+div.button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin: 45vh 40vw;
+    
+    background-color: #FC8B35;
+    width: 20vw;
+    height: 5vh;
+    border: 5px solid #000;
+    border-radius: 10px;
+
+    a {
+        text-decoration: none;
+
+        h3 {
+            margin: 0;
+            color: #000;
+        }
+    }
+}
